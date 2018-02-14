@@ -15,6 +15,7 @@ import 'rxjs/add/operator/switchMap';
   templateUrl: './dishdetail.component.html',
   styleUrls: ['./dishdetail.component.css']
 })
+
 export class DishdetailComponent implements OnInit {
 
   dish: Dish;
